@@ -1,33 +1,23 @@
 Hi 👋 I'm Kratika Varshney
 
 🎓 Btech(IT) Student in G.L Bajaj Institute of Technology and Managements(Greater Noida)   
-💻 Java Programmer & CS Enthusiast
-
+💻 Java Programmer & CS Enthusiast  
 📚 Learning Core Programming & Backend Concepts
 
 
-
-🚀 About Me
-
-🌱 Currently learning Java, Data Structures & DBMS
-
-🎯 Goal: Become a skilled software developer and build real-world applications
-
-💡 Passionate about problem-solving and clean code
-
-🤝 Open to internships, learning opportunities & collaborations
+🚀 About Me  
+🌱 Currently learning Java, Data Structures & DBMS  
+🎯 Goal: Become a skilled software developer and build real-world applications  
+💡 Passionate about problem-solving and clean code  
+🤝 Open to internships, learning opportunities & collaborations  
 
 
-🛠️ Skills
-
-Java
-Object-Oriented Programming (OOP)
-
-Data Structures & Algorithms (Basics)
-
-DBMS
-
-HTML & CSS (Basics)
+🛠️ Skills  
+Java  
+Object-Oriented Programming (OOP)  
+Data Structures & Algorithms (Basics)  
+DBMS  
+HTML & CSS (Basics)  
 
 
 📚 Currently Learning
