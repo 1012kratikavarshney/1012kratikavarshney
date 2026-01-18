@@ -31,9 +31,9 @@ Hi 👋 I'm Kratika Varshney
 
 
 📫 Connect With Me:   
-🌍 Location: India  
-💻 Linkedin:https://www.linkedin.com/in/kratika-varshney-428846302  
-💻 Email:kratikavarshney976@gmail.com   
+- Location: India  
+- Linkedin:https://www.linkedin.com/in/kratika-varshney-428846302  
+- Email:kratikavarshney976@gmail.com   
 
 
 ⭐ Thanks for visiting my GitHub profile!
