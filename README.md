@@ -6,10 +6,10 @@ Hi 👋 I'm Kratika Varshney
 
 
 🚀 About Me  
-🌱 Currently learning Java, Data Structures & DBMS  
-🎯 Goal: Become a skilled software developer and build real-world applications  
-💡 Passionate about problem-solving and clean code  
-🤝 Open to internships, learning opportunities & collaborations  
+- Currently learning Java, Data Structures & DBMS  
+- Goal: Become a skilled software developer and build real-world applications  
+- Passionate about problem-solving and clean code  
+- Open to internships, learning opportunities & collaborations  
 
 
 🛠️ Skills  
