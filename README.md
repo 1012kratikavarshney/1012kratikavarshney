@@ -10,14 +10,13 @@ Hi 👋 I'm Kratika Varshney
 🤝 Open to internships, learning opportunities & collaborations
 
 🛠️ Skills
-
 Java
 Object-Oriented Programming (OOP)
 Data Structures & Algorithms (Basics)
 DBMS
 HTML & CSS (Basics)
-📚 Currently Learning
 
+📚 Currently Learning
 Advanced Java
 Database Management Systems
 Frontend Developments Concepts
@@ -26,4 +25,7 @@ Frontend Developments Concepts
 Fit Journey App – A fitness and exercise-based application to promote a healthy lifestyle
 📫 Connect With Me
 🌍 Location: India
-💻 Linkedin:https://www.linkedin.com/in/kratika-varshney-428846302 💻 Email:kratikavarshney976@gmail.com ⭐ Thanks for visiting my GitHub profile!
+💻 Linkedin:https://www.linkedin.com/in/kratika-varshney-428846302 
+💻 Email:kratikavarshney976@gmail.com 
+
+⭐ Thanks for visiting my GitHub profile!
